@@ -92,7 +92,7 @@ These expressions are read directly from the truth table — `Y3` is the MSB and
 
 Below is a circuit diagram illustrating the OR gate structure used to implement the encoder:
 
-![Octal to Binary Circuit](OctalBinaryCircuit.png)
+![Octal to Binary Circuit](/imageAssets/OctalBinaryCircuit.png)
 
 ---
 
@@ -100,7 +100,7 @@ Below is a circuit diagram illustrating the OR gate structure used to implement 
 
 Below is the waveform diagram captured when running the simulation using the files in this project:
 
-![Octal to Binary Waveform](OctalBinaryWaveform.png)
+![Octal to Binary Waveform](/imageAssets/OctalBinaryWaveform.png)
 
 ---
 
